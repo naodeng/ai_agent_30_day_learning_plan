@@ -114,6 +114,8 @@ Expected result for the current project: `html_count=31`, `missing_links=0`, and
 - Bilingual content is expected. Keep Chinese explanations clear and use English terms where they are the learning target (e.g. context, tool calling, RAG, MCP, eval).
 - The 补充材料 block of each daily lesson may contain 《Agentic Design Patterns》 reading pointers. Format per item: `《Agentic Design Patterns》第 N 章「中文名」：URL ，一句模式视角说明` (appendices use `附录 X「中文名」`). URLs are %20-encoded plain text, preferring `adp.xindoo.xyz/chapters/...` over GitHub blob links. No markdown links, bold, or ordered lists.
 - The 模式对照表 in `ai_agent_30_day_learning_plan.md` (21 chapters + 引言/结语 + 7 appendices) must stay in sync with the day-file pointers. Its table rows must not start with `| Day ` — the build script only parses lines beginning with `| Day `.
+- `README.md` and `README_EN.md` are mirrored documents; change both together. The 30-row daily lesson table in the READMEs must stay in sync with the course index rows in `ai_agent_30_day_learning_plan.md`.
+- Deployment, build, verification, and GitHub Pages content belongs in `DEPLOY.md` / `DEPLOY_EN.md` only — do not duplicate it in the READMEs.
 
 ## Generator Constraints
 
@@ -135,6 +137,7 @@ Expected result for the current project: `html_count=31`, `missing_links=0`, and
 - GitHub Pages must use `GitHub Actions` as the Pages source.
 - The workflow publishes `_site/` via `actions/upload-pages-artifact` and `actions/deploy-pages`.
 - Do not commit `_site/`; GitHub Actions regenerates it on each push to `main`.
+- Human-facing deployment documentation lives in `DEPLOY.md` / `DEPLOY_EN.md`. When the workflow or deployment flow changes, update both deployment docs in the same change.
 
 ## Git Hygiene
 
