@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="AI Agent 30-Day Learning Plan icon">
+  <rect width="64" height="64" rx="16" fill="#fbfaf6"/>
+  <circle cx="32" cy="32" r="25" fill="#fffaf0" stroke="#0f766e" stroke-width="4"/>
+  <text x="32" y="31" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" font-weight="900" fill="#17201d">30</text>
+  <circle cx="32" cy="12.5" r="3.4" fill="#b45309"/>
+  <path d="M32 15.9v4.6" stroke="#0f766e" stroke-width="2.2" stroke-linecap="round"/>
+  <circle cx="19" cy="52" r="3.4" fill="#2563eb"/>
+  <path d="M29.4 42.2l-6.4 6.4" stroke="#0f766e" stroke-width="2.2" stroke-linecap="round"/>
+  <circle cx="45" cy="52" r="3.4" fill="#be123c"/>
+  <path d="M34.6 42.2l6.4 6.4" stroke="#0f766e" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M32 9l1.4 2.9 3 1.3-3 1.3-1.4 2.9-1.4-2.9-3-1.3 3-1.3L32 9Z" fill="#b45309"/>
+</svg>
