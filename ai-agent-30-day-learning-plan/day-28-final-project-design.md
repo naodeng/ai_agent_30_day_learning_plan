@@ -40,6 +40,8 @@
 - 补充材料：
   - OpenAI Evals 与 LangSmith 的评估文档，参考用例的组织方式。
   - MCP 官方文档中模拟工具与真实工具切换的方式。
+  - 《Agentic Design Patterns》第 11 章「目标设定与监控」：https://adp.xindoo.xyz/chapters/Chapter%2011_%20Goal%20Setting%20and%20Monitoring ，用目标拆解与监控视角定义 MVP 的成功标准。
+  - 《Agentic Design Patterns》第 20 章「优先级排序」：https://adp.xindoo.xyz/chapters/Chapter%2020_%20Prioritization ，对照范围裁剪与能力取舍的排序方法。
 
 ## 理解检查
 

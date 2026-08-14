@@ -40,6 +40,8 @@
 - 补充材料：
   - MCP 官方文档 modelcontextprotocol.io（协议架构、术语与规范）。
   - Anthropic MCP 快速入门（连接本地 server 的示例）。
+  - 《Agentic Design Patterns》第 10 章「MCP」：https://adp.xindoo.xyz/chapters/Chapter%2010_%20Model%20Context%20Protocol%20(MCP) ，从模式视角看工具生态的协议统一价值。
+  - 《Agentic Design Patterns》附录 C「智能体框架概览」：https://adp.xindoo.xyz/chapters/Appendix%20C%20-%20Quick%20overview%20of%20Agentic%20Frameworks ，重点看各框架对 MCP 的原生支持。
 
 ## 理解检查
 

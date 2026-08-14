@@ -38,6 +38,7 @@
 - 补充材料：
   - 回看 Day 16-19 的补充材料（tool use 文档、MCP 官方文档、工具安全实践）。
   - 用 OpenAI Agents SDK 或类似框架跑一遍官方工具调用示例，对照自己的 Demo。
+  - 《Agentic Design Patterns》第 12 章「异常处理与恢复」：https://adp.xindoo.xyz/chapters/Chapter%2012_%20Exception%20Handling%20and%20Recovery ，从模式视角检查 Demo 的空结果、超时与降级处理。
 
 ## 理解检查
 

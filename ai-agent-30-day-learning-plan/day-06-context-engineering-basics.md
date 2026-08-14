@@ -41,6 +41,8 @@
 - 补充材料：
   - Anthropic 的 context engineering 文档：按 system prompt、工具、检索、多轮结构四个维度检查上下文设计。
   - OpenAI 的 prompt engineering 指南：对照 system message 与 developer message 的优先级约定。
+  - 《Agentic Design Patterns》第 2 章「路由」：https://adp.xindoo.xyz/chapters/Chapter%202_%20Routing ，从模式视角看按任务类型选择上下文与处理流程。
+  - 《Agentic Design Patterns》第 8 章「记忆管理」：https://adp.xindoo.xyz/chapters/Chapter%208_%20Memory%20Management ，对照记忆作为上下文组成部分的管理方式。
 
 ## 理解检查
 

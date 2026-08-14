@@ -40,6 +40,13 @@
 | 评估与进化 | Day 21-25 | 评估入门、指标设计、eval set、后训练概念、反馈闭环 |
 | 多 Agent 与项目 | Day 26-30 | 多 Agent 协作、通信与状态、最终项目设计与实现、总结复盘 |
 
+## 配套参考书：Agentic Design Patterns
+
+每天课程的「阅读重点 - 补充材料」都配有 Google《Agentic Design Patterns》（智能体设计模式）中文翻译版的对照阅读条目（21 章 + 7 个附录），总目录附有「模式对照表」，可按天反查每个模式。
+
+- 在线阅读：https://adp.xindoo.xyz/
+- 原书仓库：https://github.com/naodeng/agentic-design-patterns
+
 ## 内容源文件
 
 | 路径 | 说明 |

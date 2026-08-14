@@ -40,6 +40,8 @@
 - 补充材料：
   - 自己 30 天的日志与复盘记录，作为复盘的原始素材。
   - 目标框架的官方文档（如 LangGraph、OpenAI Agents SDK），作为下一阶段的入口。
+  - 《Agentic Design Patterns》第 21 章「探索与发现」：https://adp.xindoo.xyz/chapters/Chapter%2021_%20Exploration%20and%20Discovery ，从模式视角规划下一阶段的探索方向。
+  - 《Agentic Design Patterns》结语：https://adp.xindoo.xyz/chapters/Conclusion ，回顾全书主线并对照自己的 30 天复盘。
 
 ## 理解检查
 
@@ -133,6 +135,7 @@
 - 学习顺序优先级：时间不够时按「基础执行循环、上下文工程、工具调用、RAG 与知识库、评估、多 Agent、后训练与持续进化」的顺序补课，先跑通最小闭环，不要一开始陷入复杂框架。
 - 工程落地五原则：先只读后写入，先单 Agent 后多 Agent，先 eval 再优化，先小场景后大平台，涉及生产配置、数据库删除、发邮件、发消息、合并代码等操作必须保留人工确认。
 - 学习方法：每天产出一个可复用的小产物，每 5 天复盘一次记录「能解释什么、能做出什么」，每个 Demo 保留日志，因为 Agent 调试主要靠轨迹。
+- 《Agentic Design Patterns》附录 D「使用 AgentSpace 构建智能体」：https://adp.xindoo.xyz/chapters/Appendix%20D%20-%20Building%20an%20Agent%20with%20AgentSpace%20(on-line%20only) ，在托管环境里快速搭建下一个 Agent 原型。
 
 ## 今日作业
 

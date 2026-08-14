@@ -42,6 +42,8 @@
 - 补充材料：
   - Anthropic 官方文档 Tool Use 章节，看工具调用决策与执行的完整流程。
   - OpenAI Agents SDK 文档中关于 tool calling 与 agent loop 的说明。
+  - 《Agentic Design Patterns》第 17 章「推理技术」：https://adp.xindoo.xyz/chapters/Chapter%2017_%20Reasoning%20Techniques ，从模式视角看增强模型推理与决策的手段。
+  - 《Agentic Design Patterns》附录 F「推理引擎幕后」：https://adp.xindoo.xyz/chapters/Appendix%20F%20%20-%20Under%20the%20Hood_%20An%20Inside%20Look%20at%20the%20Agents'%20Reasoning%20Engines ，看思维链等机制在推理引擎内部如何工作。
 
 ## 理解检查
 

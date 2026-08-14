@@ -38,6 +38,7 @@
 - 关注点：Demo 与生产级的差距：更新、权限、评估、监控、成本
 - 补充材料：LangChain 官方文档中 loader 与 text splitter 的用法
 - 补充材料：向量数据库（Chroma / FAISS）官方快速入门，跑通一次相似度检索
+- 补充材料：《Agentic Design Patterns》第 14 章「知识检索（RAG）」：https://adp.xindoo.xyz/chapters/Chapter%2014_%20Knowledge%20Retrieval%20(RAG) ，对照书中的实现步骤检查自己的 Demo 链路。
 
 ## 理解检查
 

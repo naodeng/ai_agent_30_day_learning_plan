@@ -75,6 +75,43 @@ Day 26-30 进入多 Agent 与最终项目：协作模式、通信与状态，最
 | Day 29 | Multi-Agent & Project | Final Project Implementation and Eval | 最终项目实现与评估 | 能完成可演示版本，并用评估集跑出成功与失败案例 | [day-29-final-project-implementation-and-eval.md](ai-agent-30-day-learning-plan/day-29-final-project-implementation-and-eval.md) |
 | Day 30 | Multi-Agent & Project | Summary, Retrospective, and Next Steps | 总结、复盘与下一阶段路线 | 能输出 30 天学习复盘与下一阶段学习方向 | [day-30-summary-retrospective-and-next-steps.md](ai-agent-30-day-learning-plan/day-30-summary-retrospective-and-next-steps.md) |
 
+## 模式对照表（《Agentic Design Patterns》）
+
+每天的「阅读重点 - 补充材料」里都有《Agentic Design Patterns》（Google 智能体设计模式，中文翻译版）的对照阅读条目。下表按模式反查对应 Day，在线阅读：https://adp.xindoo.xyz/ ，原书仓库：https://github.com/naodeng/agentic-design-patterns
+
+| 模式 | 中文名 | 对应 Day | 阅读链接 |
+|---|---|---|---|
+| 第 1 章 Prompt Chaining | 提示链 | Day 07、Day 09 | https://adp.xindoo.xyz/chapters/Chapter%201_%20Prompt%20Chaining |
+| 第 2 章 Routing | 路由 | Day 06 | https://adp.xindoo.xyz/chapters/Chapter%202_%20Routing |
+| 第 3 章 Parallelization | 并行化 | Day 03 | https://adp.xindoo.xyz/chapters/Chapter%203_%20Parallelization |
+| 第 4 章 Reflection | 反思 | Day 04、Day 25 | https://adp.xindoo.xyz/chapters/Chapter%204_%20Reflection |
+| 第 5 章 Tool Use | 工具使用 | Day 16 | https://adp.xindoo.xyz/chapters/Chapter%205_%20Tool%20Use |
+| 第 6 章 Planning | 规划 | Day 03 | https://adp.xindoo.xyz/chapters/Chapter%206_%20Planning |
+| 第 7 章 Multi-Agent Collaboration | 多智能体协作 | Day 26 | https://adp.xindoo.xyz/chapters/Chapter%207_%20Multi-Agent%20Collaboration |
+| 第 8 章 Memory Management | 记忆管理 | Day 06、Day 11、Day 15 | https://adp.xindoo.xyz/chapters/Chapter%208_%20Memory%20Management |
+| 第 9 章 Learning and Adaptation | 学习与适应 | Day 24、Day 25 | https://adp.xindoo.xyz/chapters/Chapter%209_%20Learning%20and%20Adaptation |
+| 第 10 章 Model Context Protocol (MCP) | MCP | Day 17 | https://adp.xindoo.xyz/chapters/Chapter%2010_%20Model%20Context%20Protocol%20(MCP) |
+| 第 11 章 Goal Setting and Monitoring | 目标设定与监控 | Day 05、Day 22、Day 28 | https://adp.xindoo.xyz/chapters/Chapter%2011_%20Goal%20Setting%20and%20Monitoring |
+| 第 12 章 Exception Handling and Recovery | 异常处理与恢复 | Day 20 | https://adp.xindoo.xyz/chapters/Chapter%2012_%20Exception%20Handling%20and%20Recovery |
+| 第 13 章 Human-in-the-Loop | 人机协同 | Day 18、Day 29 | https://adp.xindoo.xyz/chapters/Chapter%2013_%20Human-in-the-Loop |
+| 第 14 章 Knowledge Retrieval (RAG) | 知识检索（RAG） | Day 12-15 | https://adp.xindoo.xyz/chapters/Chapter%2014_%20Knowledge%20Retrieval%20(RAG) |
+| 第 15 章 Inter-Agent Communication (A2A) | 智能体间通信 | Day 27 | https://adp.xindoo.xyz/chapters/Chapter%2015_%20Inter-Agent%20Communication%20(A2A) |
+| 第 16 章 Resource-Aware Optimization | 资源感知优化 | Day 08、Day 10 | https://adp.xindoo.xyz/chapters/Chapter%2016_%20Resource-Aware%20Optimization |
+| 第 17 章 Reasoning Techniques | 推理技术 | Day 02 | https://adp.xindoo.xyz/chapters/Chapter%2017_%20Reasoning%20Techniques |
+| 第 18 章 Guardrails/Safety | 护栏与安全 | Day 18 | https://adp.xindoo.xyz/chapters/Chapter%2018_%20Guardrails_Safety%20Patterns |
+| 第 19 章 Evaluation and Monitoring | 评估与监控 | Day 21-23、Day 29 | https://adp.xindoo.xyz/chapters/Chapter%2019_%20Evaluation%20and%20Monitoring |
+| 第 20 章 Prioritization | 优先级排序 | Day 28 | https://adp.xindoo.xyz/chapters/Chapter%2020_%20Prioritization |
+| 第 21 章 Exploration and Discovery | 探索与发现 | Day 30 | https://adp.xindoo.xyz/chapters/Chapter%2021_%20Exploration%20and%20Discovery |
+| 引言 | 全书模式地图 | Day 01 | https://adp.xindoo.xyz/chapters/Agentic%20Design%20Patterns |
+| 结语 | 全书回顾 | Day 30 | https://adp.xindoo.xyz/chapters/Conclusion |
+| 附录 A | 高级提示技术 | Day 07 | https://adp.xindoo.xyz/chapters/Appendix%20A_%20Advanced%20Prompting%20Techniques |
+| 附录 B | AI 智能体交互（GUI 到真实环境） | Day 16 | https://adp.xindoo.xyz/chapters/Appendix%20B%20-%20AI%20Agentic%20Interactions_%20From%20GUI%20to%20Real%20world%20environment |
+| 附录 C | 智能体框架概览 | Day 01、Day 17 | https://adp.xindoo.xyz/chapters/Appendix%20C%20-%20Quick%20overview%20of%20Agentic%20Frameworks |
+| 附录 D | 使用 AgentSpace 构建智能体 | Day 30 | https://adp.xindoo.xyz/chapters/Appendix%20D%20-%20Building%20an%20Agent%20with%20AgentSpace%20(on-line%20only) |
+| 附录 E | CLI 上的 AI 智能体 | Day 19 | https://adp.xindoo.xyz/chapters/Appendix%20E%20-%20AI%20Agents%20on%20the%20CLI |
+| 附录 F | 推理引擎幕后 | Day 02 | https://adp.xindoo.xyz/chapters/Appendix%20F%20%20-%20Under%20the%20Hood_%20An%20Inside%20Look%20at%20the%20Agents'%20Reasoning%20Engines |
+| 附录 G | 编码智能体 | Day 19 | https://adp.xindoo.xyz/chapters/Appendix%20G%20-%20%20Coding%20agents |
+
 ## 建议使用方式
 
 - 每天只学一个文件，不要贪多。60 分钟内必须产出一份当天产物。
@@ -106,6 +143,9 @@ Day 26-30 进入多 Agent 与最终项目：协作模式、通信与状态，最
 - 第 7 章：模型后训练：https://bojieli.github.io/ai-agent-book/book/chapter7/
 - 第 8 章：Agent 的持续进化：https://bojieli.github.io/ai-agent-book/book/chapter8/
 - 第 10 章：多 Agent 协作：https://bojieli.github.io/ai-agent-book/book/chapter10/
+- 《Agentic Design Patterns》（Google 智能体设计模式，中文翻译）：https://adp.xindoo.xyz/
+- 《Agentic Design Patterns》全书引言（21 章 + 7 附录）：https://adp.xindoo.xyz/chapters/Agentic%20Design%20Patterns
+- 《Agentic Design Patterns》原书仓库：https://github.com/naodeng/agentic-design-patterns
 - OpenAI Agents SDK：https://openai.github.io/openai-agents-python/
 - OpenAI Evals：https://github.com/openai/evals
 - Model Context Protocol：https://modelcontextprotocol.io/

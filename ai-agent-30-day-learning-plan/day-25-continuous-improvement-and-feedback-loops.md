@@ -40,6 +40,8 @@
 - 关注点 4：反馈不等于事实——用户可能误判，反馈必须经过验证才能进入知识库，防止反馈污染。
 - 补充材料：Agent 记忆与持续改进的官方文档与实践。
 - 补充材料：eval 驱动迭代的工程实践博文，介绍改进后的回归流程。
+- 补充材料：《Agentic Design Patterns》第 9 章「学习与适应」：https://adp.xindoo.xyz/chapters/Chapter%209_%20Learning%20and%20Adaptation ，重点看从轨迹与反馈中提取学习信号。
+- 补充材料：《Agentic Design Patterns》第 4 章「反思」：https://adp.xindoo.xyz/chapters/Chapter%204_%20Reflection ，对照反思机制看自我纠错在持续改进中的角色。
 
 ## 理解检查
 

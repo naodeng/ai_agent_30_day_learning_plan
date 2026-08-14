@@ -38,6 +38,7 @@
 - 补充材料：
   - Anthropic 的 context engineering 文档，对照检查你的设计遗漏了哪个维度。
   - OpenAI 的 prompt engineering 指南中关于迭代评估的部分。
+  - 《Agentic Design Patterns》第 16 章「资源感知优化」：https://adp.xindoo.xyz/chapters/Chapter%2016_%20Resource-Aware%20Optimization ，用上下文预算视角复核设计文档的摘要与 token 策略。
 
 ## 理解检查
 

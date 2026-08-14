@@ -38,6 +38,7 @@
 - 关注点：知识库的过期问题：staleness 怎么发现、怎么处理
 - 补充材料：向量数据库官方文档中关于 metadata filtering 的用法
 - 补充材料：检索评估相关材料：recall@k、precision@k 的定义与口径
+- 补充材料：《Agentic Design Patterns》第 14 章「知识检索（RAG）」：https://adp.xindoo.xyz/chapters/Chapter%2014_%20Knowledge%20Retrieval%20(RAG) ，重点看混合检索、元数据过滤与检索质量评估的实践。
 
 ## 理解检查
 

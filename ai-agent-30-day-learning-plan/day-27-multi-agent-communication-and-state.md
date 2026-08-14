@@ -40,6 +40,7 @@
 - 补充材料：
   - LangGraph 官方文档中关于共享状态（State）与节点间消息传递的部分。
   - OpenAI Agents SDK 文档中关于 Handoff 与 Guardrail 的部分。
+  - 《Agentic Design Patterns》第 15 章「智能体间通信（A2A）」：https://adp.xindoo.xyz/chapters/Chapter%2015_%20Inter-Agent%20Communication%20(A2A) ，从模式视角看智能体间消息协议与状态同步。
 
 ## 理解检查
 

@@ -40,6 +40,8 @@
 - 补充材料：
   - OpenAI Evals 文档中关于 eval set 组织与指标计算的部分。
   - LangSmith 或类似工具的轨迹追踪文档，参考如何记录与回放轨迹。
+  - 《Agentic Design Patterns》第 19 章「评估与监控」：https://adp.xindoo.xyz/chapters/Chapter%2019_%20Evaluation%20and%20Monitoring ，对照评估驱动改进与轨迹调试流程。
+  - 《Agentic Design Patterns》第 13 章「人机协同」：https://adp.xindoo.xyz/chapters/Chapter%2013_%20Human-in-the-Loop ，检查 Demo 中人工确认点的设置。
 
 ## 理解检查
 

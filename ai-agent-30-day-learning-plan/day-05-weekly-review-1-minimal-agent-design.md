@@ -41,6 +41,7 @@
 - 补充材料：
   - 重看 Day 1-4 的学习笔记与全部产物，找出前后矛盾的地方。
   - Anthropic 文档 Building Effective Agents 中「以简单方案开始」的建议，对照自己的 scope cut。
+  - 《Agentic Design Patterns》第 11 章「目标设定与监控」：https://adp.xindoo.xyz/chapters/Chapter%2011_%20Goal%20Setting%20and%20Monitoring ，对照自己的成功标准与 v0.1 范围，检查目标是否可验证、可监控。
 
 ## 理解检查
 

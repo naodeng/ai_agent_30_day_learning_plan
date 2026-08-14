@@ -41,6 +41,7 @@
 - 补充材料：
   - LangGraph 官方文档中关于多 Agent 编排与状态传递的部分。
   - OpenAI Agents SDK 文档中关于 Handoff（任务交接）与多 Agent 工作流的部分。
+  - 《Agentic Design Patterns》第 7 章「多智能体协作」：https://adp.xindoo.xyz/chapters/Chapter%207_%20Multi-Agent%20Collaboration ，从模式视角对照角色分工与上下文共享/隔离的取舍。
 
 ## 理解检查
 

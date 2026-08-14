@@ -38,6 +38,7 @@
 - 关注点：完整链路：retrieval → rerank → answer synthesis → citation，缺一环都不完整
 - 补充材料：LangChain 官方 RAG 概念文档，看 loader / splitter / retriever 的模块划分
 - 补充材料：向量数据库（Chroma、FAISS 等）官方文档，了解相似度检索的基本用法
+- 补充材料：《Agentic Design Patterns》第 14 章「知识检索（RAG）」：https://adp.xindoo.xyz/chapters/Chapter%2014_%20Knowledge%20Retrieval%20(RAG) ，从模式视角对照 RAG 完整链路与检索增强的边界。
 
 ## 理解检查
 

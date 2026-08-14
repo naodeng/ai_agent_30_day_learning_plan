@@ -40,6 +40,8 @@
 - 补充材料：
   - Anthropic 官方 coding agent 资料（Claude Code 与 agentic coding 工作流）。
   - 开源 coding agent（如 OpenHands）的设计文档与评测方式。
+  - 《Agentic Design Patterns》附录 G「编码智能体」：https://adp.xindoo.xyz/chapters/Appendix%20G%20-%20%20Coding%20agents ，从模式视角看测试反馈闭环与代码修改流程。
+  - 《Agentic Design Patterns》附录 E「CLI 上的 AI 智能体」：https://adp.xindoo.xyz/chapters/Appendix%20E%20-%20AI%20Agents%20on%20the%20CLI ，看命令行环境中的 Agent 工作方式（对应 Claude Code 类工具）。
 
 ## 理解检查
 

@@ -42,6 +42,8 @@
 - 补充材料：
   - Anthropic 文档 Building Effective Agents 中「工作流与 Agent」一节，对照计划与执行的关系。
   - OpenAI Agents SDK 文档中 agent loop 的描述，看计划如何驱动多轮执行。
+  - 《Agentic Design Patterns》第 6 章「规划」：https://adp.xindoo.xyz/chapters/Chapter%206_%20Planning ，从模式视角对照任务拆解、计划与重规划。
+  - 《Agentic Design Patterns》第 3 章「并行化」：https://adp.xindoo.xyz/chapters/Chapter%203_%20Parallelization ，看相互独立的子任务如何并行执行、缩短链路。
 
 ## 理解检查
 

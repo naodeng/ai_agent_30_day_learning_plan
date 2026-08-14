@@ -39,6 +39,7 @@
 - 关注点 4：可重复性——固定输入、固定工具返回值、固定环境，结果才可比，评估环境要用 mock。
 - 补充材料：OpenAI Evals 的用例格式与注册方式。
 - 补充材料：评估集构建与过拟合防范的实践博文。
+- 补充材料：《Agentic Design Patterns》第 19 章「评估与监控」：https://adp.xindoo.xyz/chapters/Chapter%2019_%20Evaluation%20and%20Monitoring ，重点看评估集构建与失败场景覆盖。
 
 ## 理解检查
 

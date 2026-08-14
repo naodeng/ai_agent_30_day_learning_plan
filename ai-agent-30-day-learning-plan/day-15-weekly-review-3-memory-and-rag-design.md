@@ -36,6 +36,8 @@
 - 关注点：评估：RAG 质量怎么度量、怎么持续改进
 - 补充材料：回看第 2 章上下文工程，确认记忆与检索结果在上下文中的位置
 - 补充材料：检索评估相关材料：recall@k 与人工抽查结合的做法
+- 补充材料：《Agentic Design Patterns》第 8 章「记忆管理」：https://adp.xindoo.xyz/chapters/Chapter%208_%20Memory%20Management ，复查记忆与上下文的分工。
+- 补充材料：《Agentic Design Patterns》第 14 章「知识检索（RAG）」：https://adp.xindoo.xyz/chapters/Chapter%2014_%20Knowledge%20Retrieval%20(RAG) ，从检索视角复查知识库设计与评估方式。
 
 ## 理解检查
 

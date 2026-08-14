@@ -39,6 +39,7 @@
 - 补充材料：
   - Anthropic 关于 Agent skills 的文档：技能的结构、命名与触发方式。
   - Claude Code 的 skill 目录规范，参考实际项目中技能的目录组织与元信息。
+  - 《Agentic Design Patterns》第 1 章「提示链」：https://adp.xindoo.xyz/chapters/Chapter%201_%20Prompt%20Chaining ，从模式视角看 Skill 就是把固定步骤链封装成可复用单元。
 
 ## 理解检查
 

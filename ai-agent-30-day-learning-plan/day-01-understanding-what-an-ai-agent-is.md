@@ -42,6 +42,8 @@
 - 补充材料：
   - Anthropic 官方文档 Building Effective Agents，讲清「什么该用 Agent、什么该用工作流」。
   - OpenAI Agents SDK 官方文档的 Agent 概念页，看一个最小 Agent 长什么样。
+  - 《Agentic Design Patterns》引言：https://adp.xindoo.xyz/chapters/Agentic%20Design%20Patterns ，先看全书 21 个模式与 7 个附录的整体地图。
+  - 《Agentic Design Patterns》附录 C「智能体框架概览」：https://adp.xindoo.xyz/chapters/Appendix%20C%20-%20Quick%20overview%20of%20Agentic%20Frameworks ，对照主流框架看 Agent 循环的工程实现差异。
 
 ## 理解检查
 

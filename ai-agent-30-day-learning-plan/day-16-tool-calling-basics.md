@@ -40,6 +40,8 @@
 - 补充材料：
   - Anthropic 官方 tool use 文档（tool schema 与 function calling 的写法）。
   - OpenAI function calling 文档（JSON Schema 参数声明示例）。
+  - 《Agentic Design Patterns》第 5 章「工具使用」：https://adp.xindoo.xyz/chapters/Chapter%205_%20Tool%20Use ，从模式视角对照工具描述、调用决策与执行的分工。
+  - 《Agentic Design Patterns》附录 B「AI 智能体交互：从 GUI 到真实世界环境」：https://adp.xindoo.xyz/chapters/Appendix%20B%20-%20AI%20Agentic%20Interactions_%20From%20GUI%20to%20Real%20world%20environment ，看工具如何让 Agent 与真实环境交互。
 
 ## 理解检查
 

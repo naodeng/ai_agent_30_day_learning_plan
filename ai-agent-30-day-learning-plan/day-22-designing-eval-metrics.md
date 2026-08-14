@@ -40,6 +40,8 @@
 - 关注点 4：评估驱动模型选择——模型 A 与模型 B 用同一套指标对比，用数据选型而不是用感觉。
 - 补充材料：OpenAI Evals 中对打分与指标设计的说明文档。
 - 补充材料：Anthropic「Building effective agents」一文中的 eval 与迭代实践。
+- 补充材料：《Agentic Design Patterns》第 19 章「评估与监控」：https://adp.xindoo.xyz/chapters/Chapter%2019_%20Evaluation%20and%20Monitoring ，重点看指标设计与 LLM 打分的实践。
+- 补充材料：《Agentic Design Patterns》第 11 章「目标设定与监控」：https://adp.xindoo.xyz/chapters/Chapter%2011_%20Goal%20Setting%20and%20Monitoring ，用目标-指标对齐视角检查主指标是否对应核心价值。
 
 ## 理解检查
 

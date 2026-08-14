@@ -40,6 +40,13 @@ This project is designed for engineers, SDETs, and quality engineers who want to
 | Evaluation & Evolution | Day 21-25 | Evaluation basics, metric design, eval sets, post-training concepts, feedback loops |
 | Multi-Agent & Project | Day 26-30 | Multi-agent collaboration, communication and state, final project design and implementation, retrospective |
 
+## Companion Reference: Agentic Design Patterns
+
+Each day's 阅读重点 - 补充材料 section includes pointers to the Chinese translation of Google's "Agentic Design Patterns" (21 chapters + 7 appendices). The main course index includes a pattern-to-day mapping table for reverse lookup.
+
+- Online reading: https://adp.xindoo.xyz/
+- Source repository: https://github.com/naodeng/agentic-design-patterns
+
 ## Source Files
 
 | Path | Purpose |

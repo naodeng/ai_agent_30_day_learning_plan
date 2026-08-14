@@ -40,6 +40,8 @@
 - 补充材料：
   - Anthropic 工具安全实践（工具权限与审计建议）。
   - OWASP LLM 应用安全指南中 prompt injection 与工具滥用部分。
+  - 《Agentic Design Patterns》第 18 章「护栏与安全」：https://adp.xindoo.xyz/chapters/Chapter%2018_%20Guardrails_Safety%20Patterns ，从模式视角对照权限分级与护栏设计。
+  - 《Agentic Design Patterns》第 13 章「人机协同」：https://adp.xindoo.xyz/chapters/Chapter%2013_%20Human-in-the-Loop ，看高风险操作的人工确认时机。
 
 ## 理解检查
 

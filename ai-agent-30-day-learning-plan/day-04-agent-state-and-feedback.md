@@ -42,6 +42,7 @@
 - 补充材料：
   - Anthropic 官方文档多轮 Tool Use 说明，看反馈如何进入下一轮模型调用。
   - LangGraph 官方文档的 State 概念页，看工程上状态如何存储与更新。
+  - 《Agentic Design Patterns》第 4 章「反思」：https://adp.xindoo.xyz/chapters/Chapter%204_%20Reflection ，从模式视角看模型基于反馈自我纠正的闭环。
 
 ## 理解检查
 

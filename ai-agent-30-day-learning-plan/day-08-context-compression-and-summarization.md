@@ -39,6 +39,7 @@
 - 补充材料：
   - Anthropic 的 context engineering 文档中关于长上下文任务与压缩的部分。
   - 模型 API 文档中 prompt caching 的说明，理解 KV cache 在成本上的作用。
+  - 《Agentic Design Patterns》第 16 章「资源感知优化」：https://adp.xindoo.xyz/chapters/Chapter%2016_%20Resource-Aware%20Optimization ，从模式视角看上下文预算、缓存与压缩的成本权衡。
 
 ## 理解检查
 

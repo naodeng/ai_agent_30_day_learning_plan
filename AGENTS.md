@@ -112,6 +112,8 @@ Expected result for the current project: `html_count=31`, `missing_links=0`, and
   - `自检清单`
 - Keep examples practical for testing/QA work: test reports, defect analysis, Nginx troubleshooting, log and metric queries, RAG knowledge bases, and eval sets.
 - Bilingual content is expected. Keep Chinese explanations clear and use English terms where they are the learning target (e.g. context, tool calling, RAG, MCP, eval).
+- The 补充材料 block of each daily lesson may contain 《Agentic Design Patterns》 reading pointers. Format per item: `《Agentic Design Patterns》第 N 章「中文名」：URL ，一句模式视角说明` (appendices use `附录 X「中文名」`). URLs are %20-encoded plain text, preferring `adp.xindoo.xyz/chapters/...` over GitHub blob links. No markdown links, bold, or ordered lists.
+- The 模式对照表 in `ai_agent_30_day_learning_plan.md` (21 chapters + 引言/结语 + 7 appendices) must stay in sync with the day-file pointers. Its table rows must not start with `| Day ` — the build script only parses lines beginning with `| Day `.
 
 ## Generator Constraints
 

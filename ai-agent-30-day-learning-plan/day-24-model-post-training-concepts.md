@@ -39,6 +39,7 @@
 - 关注点 4：新手阶段原则——先做 Prompt/RAG/工具设计/eval，不急着训练模型。
 - 补充材料：模型微调最佳实践的官方文档与博客。
 - 补充材料：SFT 与 RL 对比的技术文章，重点看两者的适用场景差异。
+- 补充材料：《Agentic Design Patterns》第 9 章「学习与适应」：https://adp.xindoo.xyz/chapters/Chapter%209_%20Learning%20and%20Adaptation ，从模式视角看 Agent 在提示、上下文与参数层面的学习路径。
 
 ## 理解检查
 

@@ -38,6 +38,7 @@
 - 关注点：隐私边界：哪些信息默认不记，哪些必须征求同意
 - 补充材料：《深入理解 AI Agent》第 3 章在线阅读（用户记忆部分）
 - 补充材料：LangChain Memory 概念文档，对照长期记忆与短期记忆的实现方式
+- 补充材料：《Agentic Design Patterns》第 8 章「记忆管理」：https://adp.xindoo.xyz/chapters/Chapter%208_%20Memory%20Management ，从模式视角对照短期/长期记忆、更新与遗忘机制的设计。
 
 ## 理解检查
 

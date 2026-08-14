@@ -40,6 +40,8 @@
 - 补充材料：
   - Anthropic 的 context engineering 文档中关于 prompt 结构组织的部分。
   - OpenAI 的 prompt engineering 指南中的编写策略章节。
+  - 《Agentic Design Patterns》第 1 章「提示链」：https://adp.xindoo.xyz/chapters/Chapter%201_%20Prompt%20Chaining ，从模式视角看多步提示如何串联成稳定流程。
+  - 《Agentic Design Patterns》附录 A「高级提示技术」：https://adp.xindoo.xyz/chapters/Appendix%20A_%20Advanced%20Prompting%20Techniques ，补充结构化提示之外的高级技巧。
 
 ## 理解检查
 

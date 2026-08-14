@@ -40,6 +40,7 @@
 - 关注点 4：统计显著性——样例太少时，几个点的成功率差可能只是噪声，不能据此下结论。
 - 补充材料：OpenAI Evals 官方仓库（github.com/openai/evals）里的任务集格式与打分示例。
 - 补充材料：Anthropic 的 agent 评估实践博文，介绍「评估驱动迭代」的完整流程。
+- 补充材料：《Agentic Design Patterns》第 19 章「评估与监控」：https://adp.xindoo.xyz/chapters/Chapter%2019_%20Evaluation%20and%20Monitoring ，从模式视角对照评估环境、指标与评估驱动迭代。
 
 ## 理解检查
 
