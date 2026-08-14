@@ -163,4 +163,4 @@ ai_agent_30_day_learning_plan/
 
 ## License
 
-This project is released under the repository [LICENSE](LICENSE). Course content and code may be used, modified, and distributed according to the license terms.
+This project is released under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International), consistent with the website footer. Both course content and code may be used, modified, and distributed under those terms; the full text is in the repository [LICENSE](LICENSE).

@@ -163,4 +163,4 @@ ai_agent_30_day_learning_plan/
 
 ## 许可证
 
-本项目基于仓库内 [LICENSE](LICENSE) 发布。课程内容和代码可按许可证条款使用、修改和分发。
+本项目基于 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)（知识共享 署名-非商业性使用-相同方式共享 4.0 国际许可协议）发布，与网站页脚声明一致。课程内容与代码均可按该许可条款使用、修改和分发，完整条款见仓库内 [LICENSE](LICENSE)。
