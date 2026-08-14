@@ -22,7 +22,7 @@ LICENSE_URL = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans"
 CLOUDFLARE_WEB_ANALYTICS = (
     "<!-- Cloudflare Web Analytics -->"
     "<script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' "
-    "data-cf-beacon='{\"token\": \"84929ec639084f508ef5f25cdbaea7ff\"}'></script>"
+    "data-cf-beacon='{\"token\": \"554915042c8249b8bd1e1af4d53f3514\"}'></script>"
     "<!-- End Cloudflare Web Analytics -->"
 )
 
