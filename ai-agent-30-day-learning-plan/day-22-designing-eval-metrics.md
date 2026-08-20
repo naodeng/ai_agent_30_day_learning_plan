@@ -1,4 +1,4 @@
-# Day 22 - Designing Eval Metrics
+# 第 22 天：设计评估指标
 
 ## 今日目标
 

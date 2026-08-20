@@ -1,4 +1,4 @@
-# Day 01 - Understanding What an AI Agent Is
+# 第 01 天：理解 AI Agent 是什么
 
 ## 今日目标
 

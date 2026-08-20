@@ -1,4 +1,4 @@
-# Day 25 - Continuous Improvement and Feedback Loops
+# 第 25 天：持续进化与反馈闭环
 
 ## 今日目标
 

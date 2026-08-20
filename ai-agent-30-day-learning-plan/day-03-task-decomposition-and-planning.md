@@ -1,4 +1,4 @@
-# Day 03 - Task Decomposition and Planning
+# 第 03 天：任务拆解与规划
 
 ## 今日目标
 

@@ -1,4 +1,4 @@
-# Day 16 - Tool Calling Basics
+# 第 16 天：工具调用基础
 
 ## 今日目标
 

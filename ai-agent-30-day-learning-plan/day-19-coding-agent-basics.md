@@ -1,4 +1,4 @@
-# Day 19 - Coding Agent Basics
+# 第 19 天：Coding Agent 入门
 
 ## 今日目标
 

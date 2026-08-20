@@ -1,4 +1,4 @@
-# Day 23 - Building a Small Eval Set
+# 第 23 天：构建小型 Eval Set
 
 ## 今日目标
 

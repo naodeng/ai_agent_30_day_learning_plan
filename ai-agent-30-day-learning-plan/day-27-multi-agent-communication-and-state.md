@@ -1,4 +1,4 @@
-# Day 27 - Multi-Agent Communication and State
+# 第 27 天：多 Agent 通信与状态
 
 ## 今日目标
 

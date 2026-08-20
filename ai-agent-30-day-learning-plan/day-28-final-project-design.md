@@ -1,4 +1,4 @@
-# Day 28 - Final Project Design
+# 第 28 天：最终项目设计
 
 ## 今日目标
 

@@ -1,4 +1,4 @@
-# Day 30 - Summary, Retrospective, and Next Steps
+# 第 30 天：总结、复盘与下一阶段路线
 
 ## 今日目标
 

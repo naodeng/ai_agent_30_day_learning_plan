@@ -1,4 +1,4 @@
-# Day 14 - Building a Minimal RAG Demo
+# 第 14 天：搭建最小 RAG Demo
 
 ## 今日目标
 

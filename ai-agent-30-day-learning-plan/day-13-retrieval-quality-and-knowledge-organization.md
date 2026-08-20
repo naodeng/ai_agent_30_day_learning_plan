@@ -1,4 +1,4 @@
-# Day 13 - Retrieval Quality and Knowledge Organization
+# 第 13 天：检索质量与知识组织
 
 ## 今日目标
 

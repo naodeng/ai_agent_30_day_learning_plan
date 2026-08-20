@@ -1,4 +1,4 @@
-# Day 06 - Context Engineering Basics
+# 第 06 天：上下文工程入门
 
 ## 今日目标
 

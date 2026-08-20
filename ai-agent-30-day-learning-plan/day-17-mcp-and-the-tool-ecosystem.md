@@ -1,4 +1,4 @@
-# Day 17 - MCP and the Tool Ecosystem
+# 第 17 天：MCP 与工具生态
 
 ## 今日目标
 

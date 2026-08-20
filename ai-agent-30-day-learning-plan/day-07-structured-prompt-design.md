@@ -1,4 +1,4 @@
-# Day 07 - Structured Prompt Design
+# 第 07 天：Prompt 结构化设计
 
 ## 今日目标
 

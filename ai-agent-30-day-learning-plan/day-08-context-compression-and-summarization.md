@@ -1,4 +1,4 @@
-# Day 08 - Context Compression and Summarization
+# 第 08 天：上下文压缩与摘要
 
 ## 今日目标
 

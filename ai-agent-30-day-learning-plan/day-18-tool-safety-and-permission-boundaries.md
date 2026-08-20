@@ -1,4 +1,4 @@
-# Day 18 - Tool Safety and Permission Boundaries
+# 第 18 天：工具安全与权限边界
 
 ## 今日目标
 

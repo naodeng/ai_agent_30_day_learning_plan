@@ -1,4 +1,4 @@
-# Day 12 - RAG Basics
+# 第 12 天：RAG 基础
 
 ## 今日目标
 

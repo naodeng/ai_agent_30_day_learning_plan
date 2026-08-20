@@ -1,4 +1,4 @@
-# Day 05 - Weekly Review 1: Minimal Agent Design
+# 第 05 天：阶段复盘 1：最小 Agent 设计
 
 ## 今日目标
 

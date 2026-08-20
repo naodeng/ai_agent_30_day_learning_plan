@@ -1,4 +1,4 @@
-# Day 24 - Model Post-Training Concepts
+# 第 24 天：模型后训练概念
 
 ## 今日目标
 

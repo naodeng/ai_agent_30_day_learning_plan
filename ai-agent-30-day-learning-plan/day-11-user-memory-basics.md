@@ -1,4 +1,4 @@
-# Day 11 - User Memory Basics
+# 第 11 天：用户记忆入门
 
 ## 今日目标
 

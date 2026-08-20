@@ -1,4 +1,4 @@
-# Day 15 - Weekly Review 3: Memory + RAG Design
+# 第 15 天：阶段复盘 3：记忆 + RAG 设计
 
 ## 今日目标
 

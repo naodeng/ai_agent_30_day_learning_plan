@@ -1,4 +1,4 @@
-# Day 10 - Weekly Review 2: Context Design Document
+# 第 10 天：阶段复盘 2：上下文设计文档
 
 ## 今日目标
 

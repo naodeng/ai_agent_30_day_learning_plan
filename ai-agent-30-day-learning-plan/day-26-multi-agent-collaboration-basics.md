@@ -1,4 +1,4 @@
-# Day 26 - Multi-Agent Collaboration Basics
+# 第 26 天：多 Agent 协作基础
 
 ## 今日目标
 

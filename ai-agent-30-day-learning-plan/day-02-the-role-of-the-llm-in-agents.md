@@ -1,4 +1,4 @@
-# Day 02 - The Role of the LLM Inside an Agent
+# 第 02 天：LLM 在 Agent 中的角色
 
 ## 今日目标
 
