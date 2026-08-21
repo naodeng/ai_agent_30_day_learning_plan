@@ -43,11 +43,16 @@ class Lesson:
 
     @property
     def day_label(self) -> str:
-        return f"Day {self.day:02d}"
+        return f"第 {self.day:02d} 天"
 
     @property
     def href(self) -> str:
         return f"days/{self.slug}.html"
+
+    @property
+    def display_topic(self) -> str:
+        """Use the Chinese topic for learner-facing page titles."""
+        return self.chinese_topic or self.topic
 
 
 PHASES = [
@@ -372,7 +377,7 @@ def render_index(lessons: list[Lesson]) -> str:
                 f'  <div class="card-top"><span class="day-num" style="color:{lesson.accent}">'
                 f"{lesson.day_label}</span><span class=\"badge\" style=\"color:{lesson.accent}\">"
                 f"{html.escape(lesson.phase_label)}</span></div>\n"
-                f"  <h3>{html.escape(lesson.topic)}</h3>\n"
+                f"  <h3>{html.escape(lesson.display_topic)}</h3>\n"
                 f"  <p>{html.escape(lesson.goal)}</p>\n"
                 "</a>"
             )
@@ -385,7 +390,7 @@ def render_index(lessons: list[Lesson]) -> str:
     body = (
         render_header("context · tools · RAG · eval")
         + '<section class="hero"><div><div class="kicker">60 minutes a day · hands-on agent track</div>'
-        + "<h1>Understanding AI Agents</h1>"
+        + "<h1>理解 AI Agent</h1>"
         + "<p class=\"lead\">从 Agent 执行循环与上下文工程出发，覆盖记忆与 RAG、工具与 MCP、Coding Agent、评估、后训练与多 Agent 协作，30 天做出一个可解释、可控、可改进的小型 Agent。</p>"
         + '<div class="study-strip"><div class="study-step"><b>0-10</b><span>概念</span></div>'
         + '<div class="study-step"><b>10-25</b><span>阅读</span></div>'
@@ -394,7 +399,7 @@ def render_index(lessons: list[Lesson]) -> str:
         + '<div class="study-step"><b>55-60</b><span>复盘</span></div></div></div>'
         + '<aside class="hero-right"><div class="hero-side-copy">'
         + '<div class="kicker">loop · context · tools · eval</div>'
-        + '<h2>for AI Agent Builders</h2>'
+        + '<h2>面向 AI Agent 构建者</h2>'
         + '<p>每天 60 分钟，把概念读进去、把 Demo 做出来，用 eval 判断每一次改动是否真的变好。</p>'
         + '</div><div class="hero-panel"><div class="metrics">'
         + '<div class="metric"><b>30</b><span>daily lessons</span></div>'
@@ -424,13 +429,13 @@ def render_lesson(lesson: Lesson, lessons: list[Lesson]) -> str:
 
     previous_link = (
         f'<a href="{html.escape(previous_lesson.slug)}.html">Previous<br>'
-        f"<small>{previous_lesson.day_label} · {html.escape(previous_lesson.topic)}</small></a>"
+        f"<small>{previous_lesson.day_label} · {html.escape(previous_lesson.display_topic)}</small></a>"
         if previous_lesson
         else "<span></span>"
     )
     next_link = (
         f'<a href="{html.escape(next_lesson.slug)}.html">Next<br>'
-        f"<small>{next_lesson.day_label} · {html.escape(next_lesson.topic)}</small></a>"
+        f"<small>{next_lesson.day_label} · {html.escape(next_lesson.display_topic)}</small></a>"
         if next_lesson
         else "<span></span>"
     )
@@ -458,7 +463,7 @@ def render_lesson(lesson: Lesson, lessons: list[Lesson]) -> str:
         + day_nav
         + "</main>"
     )
-    return html_page(f"{lesson.day_label} - {lesson.topic}", body, "../")
+    return html_page(f"{lesson.day_label} - {lesson.display_topic}", body, "../")
 
 
 def build() -> None:
