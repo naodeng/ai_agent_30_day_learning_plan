@@ -304,7 +304,7 @@ def html_page(title: str, body: str, asset_prefix: str) -> str:
         f'<link rel="icon" type="image/svg+xml" href="{asset_prefix}assets/site-icon.svg">'
         f'<link rel="alternate icon" type="image/png" sizes="32x32" href="{asset_prefix}assets/favicon-32.png">'
         f'<link rel="apple-touch-icon" sizes="180x180" href="{asset_prefix}assets/apple-touch-icon.png">'
-        f'<link rel="stylesheet" href="{asset_prefix}assets/style.css"><link rel="stylesheet" href="{asset_prefix}assets/hero.css"></head><body>'
+        f'<link rel="stylesheet" href="{asset_prefix}assets/style.css"><link rel="stylesheet" href="{asset_prefix}assets/hero.css"><link rel="stylesheet" href="{asset_prefix}assets/hero-outcomes.css"></head><body>'
         + body
         + render_footer()
         + f'<script src="{asset_prefix}assets/app.js"></script>'
@@ -396,7 +396,11 @@ def render_index(lessons: list[Lesson]) -> str:
         + '<div class="study-step"><b>10-25</b><span>阅读</span></div>'
         + '<div class="study-step"><b>25-45</b><span>实践</span></div>'
         + '<div class="study-step"><b>45-55</b><span>追问</span></div>'
-        + '<div class="study-step"><b>55-60</b><span>复盘</span></div></div></div>'
+        + '<div class="study-step"><b>55-60</b><span>复盘</span></div></div>'
+        + '<div class="hero-outcomes"><div class="outcomes-label">30 天后，你会得到</div>'
+        + '<div class="outcome-row"><b>01</b><span>一个可运行、可解释的小型 Agent</span></div>'
+        + '<div class="outcome-row"><b>02</b><span>一套可以复用的 eval 集与改进记录</span></div>'
+        + '<div class="outcome-row"><b>03</b><span>一份完整的 Agent 设计与实践说明</span></div></div></div>'
         + '<aside class="hero-right"><div class="hero-side-copy">'
         + '<div class="kicker">loop · context · tools · eval</div>'
         + '<h2>从理解到构建</h2>'
