@@ -304,7 +304,7 @@ def html_page(title: str, body: str, asset_prefix: str) -> str:
         f'<link rel="icon" type="image/svg+xml" href="{asset_prefix}assets/site-icon.svg">'
         f'<link rel="alternate icon" type="image/png" sizes="32x32" href="{asset_prefix}assets/favicon-32.png">'
         f'<link rel="apple-touch-icon" sizes="180x180" href="{asset_prefix}assets/apple-touch-icon.png">'
-        f'<link rel="stylesheet" href="{asset_prefix}assets/style.css"></head><body>'
+        f'<link rel="stylesheet" href="{asset_prefix}assets/style.css"><link rel="stylesheet" href="{asset_prefix}assets/hero.css"></head><body>'
         + body
         + render_footer()
         + f'<script src="{asset_prefix}assets/app.js"></script>'
@@ -399,9 +399,11 @@ def render_index(lessons: list[Lesson]) -> str:
         + '<div class="study-step"><b>55-60</b><span>复盘</span></div></div></div>'
         + '<aside class="hero-right"><div class="hero-side-copy">'
         + '<div class="kicker">loop · context · tools · eval</div>'
-        + '<h2>面向 AI Agent 构建者</h2>'
+        + '<h2>从理解到构建</h2>'
         + '<p>每天 60 分钟，把概念读进去、把 Demo 做出来，用 eval 判断每一次改动是否真的变好。</p>'
-        + '</div><div class="hero-panel"><div class="metrics">'
+        + '<div class="agent-route" aria-label="课程主线">'
+        + '<span>Loop</span><i>→</i><span>Context</span><i>→</i><span>Tools</span><i>→</i><span>Eval</span>'
+        + '</div></div><div class="hero-panel"><div class="metrics">'
         + '<div class="metric"><b>30</b><span>daily lessons</span></div>'
         + '<div class="metric"><b>6</b><span>phased stages</span></div>'
         + '<div class="metric"><b>RAG</b><span>memory + retrieval track</span></div>'
